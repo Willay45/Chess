@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DOC https://www.blois.fr/sites/default/files/media/downloads/blois-covid19-202102-mirabeau_ludotheque_echecs.pdf
+
 ## Available Scripts
 
 In the project directory, you can run:
