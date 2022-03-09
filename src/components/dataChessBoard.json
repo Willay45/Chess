@@ -1,0 +1,106 @@
+[
+    {
+        "Id": "A",
+        "Cells": [
+            {"Id": "1", "className": "black"},
+            {"Id": "2", "className": "white"},
+            {"Id": "3", "className": "black"},
+            {"Id": "4", "className": "white"},
+            {"Id": "5", "className": "black"},
+            {"Id": "6", "className": "white"},
+            {"Id": "7", "className": "black"},
+            {"Id": "8", "className": "white"}
+        ]
+    },
+    {
+        "Id": "B",
+        "Cells": [
+            {"Id": "1", "className": "white"},
+            {"Id": "2", "className": "black"},
+            {"Id": "3", "className": "white"},
+            {"Id": "4", "className": "black"},
+            {"Id": "5", "className": "white"},
+            {"Id": "6", "className": "black"},
+            {"Id": "7", "className": "white"},
+            {"Id": "8", "className": "black"}
+        ]
+    },
+    {
+        "Id": "C",
+        "Cells": [
+            {"Id": "1", "className": "black"},
+            {"Id": "2", "className": "white"},
+            {"Id": "3", "className": "black"},
+            {"Id": "4", "className": "white"},
+            {"Id": "5", "className": "black"},
+            {"Id": "6", "className": "white"},
+            {"Id": "7", "className": "black"},
+            {"Id": "8", "className": "white"}
+        ]
+    },
+    {
+        "Id": "D",
+        "Cells": [
+            {"Id": "1", "className": "white"},
+            {"Id": "2", "className": "black"},
+            {"Id": "3", "className": "white"},
+            {"Id": "4", "className": "black"},
+            {"Id": "5", "className": "white"},
+            {"Id": "6", "className": "black"},
+            {"Id": "7", "className": "white"},
+            {"Id": "8", "className": "black"}
+        ]
+    },
+    {
+        "Id": "E",
+        "Cells": [
+            {"Id": "1", "className": "black"},
+            {"Id": "2", "className": "white"},
+            {"Id": "3", "className": "black"},
+            {"Id": "4", "className": "white"},
+            {"Id": "5", "className": "black"},
+            {"Id": "6", "className": "white"},
+            {"Id": "7", "className": "black"},
+            {"Id": "8", "className": "white"}
+        ]
+    },
+    {
+        "Id": "F",
+        "Cells": [
+            {"Id": "1", "className": "white"},
+            {"Id": "2", "className": "black"},
+            {"Id": "3", "className": "white"},
+            {"Id": "4", "className": "black"},
+            {"Id": "5", "className": "white"},
+            {"Id": "6", "className": "black"},
+            {"Id": "7", "className": "white"},
+            {"Id": "8", "className": "black"}
+        ]
+    },
+    {
+        "Id": "G",
+        "Cells": [
+            {"Id": "1", "className": "black"},
+            {"Id": "2", "className": "white"},
+            {"Id": "3", "className": "black"},
+            {"Id": "4", "className": "white"},
+            {"Id": "5", "className": "black"},
+            {"Id": "6", "className": "white"},
+            {"Id": "7", "className": "black"},
+            {"Id": "8", "className": "white"}
+        ]
+    },
+    {
+        "Id": "H",
+        "Cells": [
+            {"Id": "1", "className": "white"},
+            {"Id": "2", "className": "black"},
+            {"Id": "3", "className": "white"},
+            {"Id": "4", "className": "black"},
+            {"Id": "5", "className": "white"},
+            {"Id": "6", "className": "black"},
+            {"Id": "7", "className": "white"},
+            {"Id": "8", "className": "black"}
+        ]
+    }
+]
